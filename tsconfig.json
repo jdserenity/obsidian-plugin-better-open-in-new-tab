@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "types": ["obsidian"],
+    "lib": ["ES2015"]
+  }
+}
